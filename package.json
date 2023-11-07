@@ -1,0 +1,16 @@
+{
+  "name": "scrambltextapp",
+  "version": "1.0.0",
+  "description": "An APP that allows Users to scramble a portion of text they don't want to be seen",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "TechGuyNiran",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}
